@@ -3,7 +3,7 @@ Interprocess Communication using ZeroMQ nodejs dotnet python
 
 This is a demo showing IPC communication using [zeromq](https://zeromq.org/)
 
-The client is the dotnet core console application, zeromq supports tons of languages.
+The server is the dotnet core console application, but it can be any language, zeromq supports tons of languages.
 
 # Requirements
 
